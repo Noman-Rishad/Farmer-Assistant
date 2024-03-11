@@ -1,51 +1,51 @@
-import Dosa from "../images/dosa.jpg";
-import Chola from "../images/chhola.jpg";
-import Idli from "../images/idli.jpg";
-import MasalaDosa from "../images/masala.jpg";
-import Paneer from "../images/paneer.jpg";
-import Gujrati from "../images/gujrati.jpeg";
+import Rice from "../images/rice.jpg";
+import Potato from "../images/potato.jpg";
+import Cilantro from "../images/cilantro.jpg";
+import Cabbage from "../images/cabbage.jpg";
+import Cauliflower from "../images/cauliflower.jpg";
+import Onion from "../images/onion.jpg";
 
 export const MenuList = [
   {
-    name: "Dosa",
+    name: "Rice",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
-    image: Dosa,
-    price: 200,
+    image: Rice,
+    
   },
   {
-    name: "Chola",
+    name: "Potato",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
-    image: Chola,
-    price: 250,
+    image: Potato,
+    
   },
   {
-    name: "Idli Sambhar",
+    name: "Cilantro",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
-    image: Idli,
-    price: 300,
+    image: Cilantro,
+    
   },
   {
-    name: "Masala Dosa",
+    name: "Cabbage",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
-    image: MasalaDosa,
-    price: 100,
+    image: Cabbage,
+    
   },
   {
-    name: "Paneer",
+    name: "Cauliflower",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
-    image: Paneer,
-    price: 400,
+    image: Cauliflower,
+    
   },
   {
-    name: "Gujrati",
+    name: "Onion",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
-    image: Gujrati,
-    price: 500,
+    image: Onion,
+    
   },
 ];
